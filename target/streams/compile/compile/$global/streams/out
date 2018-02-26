@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/digitalat032590/GitProjects/CollatzConjecture/src/main/scala/app/CollatzConjecture.scala:7:36: value cons is not a member of object List[0m
+[0m[[0m[31merror[0m] [0m[0m      case n if n % 2 == 0 => List.cons(number, apply(number / 2))[0m
+[0m[[0m[31merror[0m] [0m[0m                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/digitalat032590/GitProjects/CollatzConjecture/src/main/scala/app/CollatzConjecture.scala:8:22: value cons is not a member of object List[0m
+[0m[[0m[31merror[0m] [0m[0m      case _ => List.cons(number, apply(number * 3 + 1))[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
